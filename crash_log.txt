@@ -1,0 +1,5 @@
+Uncaught Exception: 2026-01-07 20:43:09.912801
+Traceback (most recent call last):
+  File "C:\Users\Arda\Desktop\projelerim\MinDefender\main.py", line 21, in <module>
+    import pygame
+ModuleNotFoundError: No module named 'pygame'

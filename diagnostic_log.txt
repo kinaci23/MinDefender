@@ -1,0 +1,10 @@
+Starting diagnosis at 2026-01-07 20:41:06.576742
+Python version: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+CWD: C:\Users\Arda\Desktop\projelerim\MinDefender
+Pygame imported. Version: 2.6.1
+Pygame initialized.
+Pygame font created.
+Imported question_manager.
+Imported button.
+QuestionManager initialized. Data keys: ['ingilizce', 'almanca', 'baskentler', 'tarih']
+Diagnosis complete.

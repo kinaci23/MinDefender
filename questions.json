@@ -1,0 +1,161 @@
+{
+    "ingilizce": {
+        "kolay": {
+            "Apple": "Elma",
+            "Red": "Kırmızı",
+            "Blue": "Mavi",
+            "One": "Bir",
+            "Ten": "On",
+            "Cat": "Kedi",
+            "Dog": "Köpek",
+            "Sun": "Güneş",
+            "Star": "Yıldız",
+            "Water": "Su",
+            "Milk": "Süt",
+            "Book": "Kitap"
+        },
+        "orta": {
+            "Library": "Kütüphane",
+            "Decide": "Karar",
+            "Dangerous": "Tehlikeli",
+            "Journey": "Yolculuk",
+            "Success": "Başarı",
+            "Behavior": "Davranış",
+            "Ancient": "Antik",
+            "Evidence": "Kanıt",
+            "Mirror": "Ayna",
+            "Science": "Bilim",
+            "Develop": "Geliştirmek"
+        },
+        "zor": {
+            "Hypothesis": "Hipotez",
+            "Inevitable": "Kaçınılmaz",
+            "Ambiguous": "Muğlak",
+            "Paradox": "Paradoks",
+            "Resilient": "Dirençli",
+            "Ubiquitous": "Yaygın",
+            "Ephemeral": "Geçici",
+            "Metaphor": "Mecaz",
+            "Consequence": "Sonuç",
+            "Perception": "Algı"
+        }
+    },
+    "almanca": {
+        "kolay": {
+            "Hallo": "Merhaba",
+            "Nein": "Hayır",
+            "Ja": "Evet",
+            "Gut": "İyi",
+            "Eins": "Bir",
+            "Mutter": "Anne",
+            "Vater": "Baba",
+            "Haus": "Ev",
+            "Brot": "Ekmek",
+            "Wasser": "Su",
+            "Blau": "Mavi"
+        },
+        "orta": {
+            "Schule": "Okul",
+            "Zeitung": "Gazete",
+            "Freiheit": "Özgürlük",
+            "Geduld": "Sabır",
+            "Erfolg": "Başarı",
+            "Gefahr": "Tehlike",
+            "Zukunft": "Gelecek",
+            "Rechnung": "Fatura",
+            "Erfahrung": "Deneyim",
+            "Geschichte": "Tarih"
+        },
+        "zor": {
+            "Wissenschaft": "Bilim",
+            "Verantwortung": "Sorumluluk",
+            "Entwicklung": "Gelişim",
+            "Gesellschaft": "Toplum",
+            "Unabhängigkeit": "Bağımsızlık",
+            "Bewusstsein": "Bilinç",
+            "Leidenschaft": "Tutku",
+            "Gerechtigkeit": "Adalet",
+            "Herausforderung": "Meydan Okuma",
+            "Zufriedenheit": "Memnuniyet"
+        }
+    },
+    "baskentler": {
+        "kolay": {
+            "Türkiye": "Ankara",
+            "Fransa": "Paris",
+            "Almanya": "Berlin",
+            "İtalya": "Roma",
+            "İngiltere": "Londra",
+            "Rusya": "Moskova",
+            "Japonya": "Tokyo",
+            "Çin": "Pekin",
+            "Mısır": "Kahire",
+            "ABD": "Washington",
+            "Yunanistan": "Atina"
+        },
+        "orta": {
+            "Kanada": "Ottava",
+            "Brezilya": "Brasilia",
+            "Avustralya": "Kanberra",
+            "İspanya": "Madrid",
+            "Portekiz": "Lizbon",
+            "Arjantin": "Buenos Aires",
+            "İsviçre": "Bern",
+            "İsveç": "Stokholm",
+            "Norveç": "Oslo",
+            "Belçika": "Brüksel",
+            "Hollanda": "Amsterdam"
+        },
+        "zor": {
+            "Kazakistan": "Astana",
+            "İzlanda": "Reykjavik",
+            "Finlandiya": "Helsinki",
+            "Yeni Zelanda": "Wellington",
+            "Fas": "Rabat",
+            "Şili": "Santiago",
+            "Kolombiya": "Bogota",
+            "Vietnam": "Hanoi",
+            "Tayland": "Bangkok",
+            "Kenya": "Nairobi",
+            "Macaristan": "Budapeşte"
+        }
+    },
+    "tarih": {
+        "kolay": {
+            "İstanbul'un Fethi": "1453",
+            "Cumhuriyetin İlanı": "1923",
+            "Malazgirt Savaşı": "1071",
+            "Fransız İhtilali": "1789",
+            "Ay'a İlk Ayak Basış": "1969",
+            "TBMM'nin Açılışı": "1920",
+            "Hatay'ın Katılması": "1939",
+            "İzmir'in Kurtuluşu": "1922",
+            "Soyadı Kanunu": "1934",
+            "NATO Kuruluşu": "1949"
+        },
+        "orta": {
+            "Telefonun İcadı": "1876",
+            "I. Dünya Savaşı Başı": "1914",
+            "II. Dünya Savaşı Sonu": "1945",
+            "BM Kuruluşu": "1945",
+            "Çernobil Faciası": "1986",
+            "Berlin Duvarı Yıkılışı": "1989",
+            "Süveyş Kanalı Açılışı": "1869",
+            "Titanik'in Batışı": "1912",
+            "DNA'nın Keşfi": "1953",
+            "Ampulün İcadı": "1879"
+        },
+        "zor": {
+            "Lozan Antlaşması": "1923",
+            "Magna Carta": "1215",
+            "Westphalia Barışı": "1648",
+            "Viyana Kongresi": "1815",
+            "Bolşevik Devrimi": "1917",
+            "Sanayi Devrimi Başı": "1760",
+            "Matbaanın İcadı": "1440",
+            "Amerika'nın Keşfi": "1492",
+            "Mondros Ateşkesi": "1918",
+            "Tanzimat Fermanı": "1839"
+        }
+    }
+}
